@@ -1,0 +1,7 @@
+{
+  "app_id": "ff6c7c99",
+  "type": "custom",
+  "build": {
+    "web_dir": "public"
+  }
+}
