@@ -1,0 +1,6 @@
+{
+  "appId": "com.beaverlee55.pulsewand",
+  "appName": "Pulsewand",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "pulsewand",
+  "version": "1.0.0",
+  "description": "Capacitor app for EMF tracking",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
